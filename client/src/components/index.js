@@ -1,2 +1,2 @@
-export {Chat} from './Chat'
-export {Join} from './Join'
+export {Chat} from './Chat/Chat'
+export {Join} from './Join/Join'
