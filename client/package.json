@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "font-awesome": "^4.7.0",
     "netlify-cli": "^2.58.0",
+    "postbuild": "cp_redirects ./build/",
     "query-string": "^6.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
