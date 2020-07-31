@@ -19,3 +19,5 @@ Server has been deployed under Heroku.
 ## Thank You
 
 There are more features to be added, so stay tuned! Please feel free to reach out for any questions!
+
+(Here is example of a good commit message for Dev.to)
